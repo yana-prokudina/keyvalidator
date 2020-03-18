@@ -8,9 +8,13 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* [Issue 1](https://github.com/yana-prokudina/keyvalidator/issues/1#issue-584002750)
+* [Issue 2](https://github.com/yana-prokudina/keyvalidator/issues/2#issue-584026068)
+* [Issue 3](https://github.com/yana-prokudina/keyvalidator/issues/3#issue-584029451)
+
+Предложение для улучшения:
+
+* [Feature for improvement](https://github.com/yana-prokudina/keyvalidator/issues/4#issue-584036017)
 
 ## Описание процесса тестирования
 
