@@ -36,5 +36,5 @@
 
 * macOS version 0.15.3 (19D76) x86_64
 * openjdk 11.0.6 2020-01-14
-OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.6+10)
-OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.6+10, mixed mode)
+  OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.6+10)
+  OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.6+10, mixed mode)
