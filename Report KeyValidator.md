@@ -1,8 +1,8 @@
-# Отчёт о тестировании <KeyValidator>
+# Отчёт о тестировании KeyValidator
 
 ## Краткое описание
 
-18.03.2020 было проведено тестирование инсталляции и функциональное тестирование приложения KeyValidator.
+18.03.2020 было проведено тестирование инсталляции и функциональное тестирование приложения **KeyValidator**.
 
 На тестирование затрачено: 2 часа
 
@@ -35,6 +35,6 @@
 Тестирование производилось в следующем окружении:
 
 * macOS version 0.15.3 (19D76) x86_64
-* openjdk 11.0.6 2020-01-14
-  OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.6+10)
-  OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.6+10, mixed mode)
+* openjdk 11.0.6 2020-01-14  
+OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.6+10)  
+OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.6+10, mixed mode)
